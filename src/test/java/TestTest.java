@@ -10,7 +10,6 @@ public class TestTest {
     public void tests() throws Exception {
         Test t = new Test("sda");
         Assert.assertEquals("TEST","ss", t.Tests());
-        String aa="dsda";
     }
 
 }
