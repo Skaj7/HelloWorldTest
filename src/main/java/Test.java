@@ -3,6 +3,7 @@
  */
 public class Test {
     public Test(String test) {
+        int a =1;
         Tests();
     }
 
