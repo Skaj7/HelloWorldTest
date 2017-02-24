@@ -8,6 +8,6 @@ public class Test {
     }
 
     public String Tests(){
-        return "ass";
+        return "ss";
     }
 }
